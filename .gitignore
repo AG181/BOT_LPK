@@ -1,7 +1,1 @@
-# Environment
-.env
-.env.local
-
-# Python compiled files
-__pycache__/
-*.pyc
+(empty)
